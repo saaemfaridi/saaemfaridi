@@ -20,7 +20,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saaem-faridi-0b565b33b/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saaemfaridi)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Fiardia)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officialsaaem@gmail.com)
+✉️ Email -> `officialsaaem@gmail.com , saaaemfaridi@gmail.com , saaemfaridi@yahoo.com`
 
 ---
 ⭐️ From [saaemfaridi](https://github.com/saaemfaridi)
